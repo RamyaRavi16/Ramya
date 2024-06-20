@@ -1,0 +1,43 @@
+.menubar{
+    margin:0vh;
+    background-color: aquamarine;
+    height:16vh ;
+    width:235vh ;
+    text-align: center;
+    font-size: 10vh;
+    
+}
+.menubar a{
+    float: left;
+    font: size 45vh; ;
+    color: blue;
+    padding:18px ;
+    height:30vh ;
+    width:25vh ;
+    text-align: center;
+
+}
+.menubar a :hover{
+    background-color: blueviolet;
+
+}
+.barmenu{
+    background-color: beige;
+    height:140vh;
+    width:20vh ;
+    text-align: center;
+
+}
+.barmenu a{
+    float: left;
+    font-size:45px ;
+    color: aliceblue;
+    padding:10px ;
+    height:20vh ;
+    width: 15vh;
+    text-align: center;
+
+}
+.barmenu a:hover{
+    background-color: brown;
+}

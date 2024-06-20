@@ -1,0 +1,96 @@
+.col1{
+    background-color:snow;
+    height: 100vh;
+}
+.col2{
+    background-color: #E5E5E569;
+    height: 100vh;
+    background-image:url(images/clip-message-sent\ 1.png);
+    background-repeat: no-repeat;
+}
+.hello{
+    color: #3751FE;
+    margin-top:20px ;
+    margin-left:250px ;
+    
+}
+.hii{
+    color: black;
+    margin-top:25px;
+    margin-left: 150PX;
+}
+.hmm{
+    color: blueviolet;
+    margin-left: 25vh;
+    height: 25PX;
+    width: 100VH;
+    
+    
+}
+.okay{
+    color: #d91099;
+    height: 30px;
+    width: 250PX;
+    margin-left: 25VH;
+
+
+
+
+}
+.bye{
+    height: 18px;
+    width: 25px;
+    border: 35px solid black;
+    margin-left:250px;
+}
+.yot{
+    height:20px ;
+    width:35px ;
+    border:45px solid black;
+}
+.job{
+    height:10px ;
+    width:10px ;
+    margin-left:60vh ;
+}
+.ram{
+    margin-left: 60vh;
+    margin-bottom: -10vh;
+
+}
+
+.yaa{
+    margin-left: 3vh;
+
+}
+.for{
+    background-color: #3751FE;
+    color: aliceblue;
+    text-align: center;
+    height:5vh;
+    width:10vh;
+    margin-left:60vh ;
+}
+.you{
+    width:10vh ;
+    margin-left:80vh ;
+    margin-bottom: -40vh;
+
+
+}
+.monday{
+    margin-left: 50px;
+
+}
+.friday{
+        margin-left: 100px;
+}
+.tuesday{
+    margin-left: 100px;
+}
+.my{
+    margin-left: 60vh;
+}
+.free{
+    margin-left: 60vh;
+}
